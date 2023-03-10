@@ -20,7 +20,6 @@ Three weeks
 Hyunji Kang (Student ID: 20222110017)
 
 
----------------------------------------------------
 
 
 # Description to how to run
