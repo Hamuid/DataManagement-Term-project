@@ -1,0 +1,21 @@
+@startuml
+
+entity "Company" as e01 {
+  company_name
+  --
+  company_location
+  --
+  company_link
+}
+
+entity "Job" as e02 {
+  job_title
+  --
+  job_listed_time
+  --
+  job_detail_link
+}
+
+e01 ||--|| e02
+
+@enduml

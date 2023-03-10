@@ -1,0 +1,12 @@
+@startuml
+
+entity "Linkedin jobs" {
+  <#F2F4F4,#F2F4F4>|= company_name |= text |
+  | company_location | text |
+  | company_link | text |
+  | job_title | text |
+  | job_listed_time | integer |
+  | job_detail_link | text |
+}
+
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+
+entity "Company" as e01
+entity "Job" as e02
+e01 - e02 : post >
+
+@enduml
